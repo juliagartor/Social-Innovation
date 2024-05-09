@@ -4,7 +4,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 
 ## Project Structure
 
-- **initial-ideas/**: Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
+- **[Installation]**: Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
 
 - **android-studio-code/**: This folder contains the Android Studio code for the La Meva Salut app with the integrated virtual doctor tool.
   
