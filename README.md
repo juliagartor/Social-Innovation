@@ -14,7 +14,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 
 ## Project Contributors
 
-- Julieta Rodriguez: [GitHub Profile](https://github.com/juliagartor)
+-  Júlia Garcia Torné: [GitHub Profile](https://github.com/juliagartor)
   - Role: Android Developer
   - Contributions: Developed the app interface using Android Studio, integrated Python emulator for model integration, and optimized app performance.
 
