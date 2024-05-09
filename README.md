@@ -9,7 +9,7 @@
 
 # 📖 Pocket Doctor <a name="about-project"></a>
 
-Welcome to the Pocket Doctor project! This tool is designed to be integrated into the La Meva Salut app, providing virtual doctor services accessible to every person in Catalunya.
+Welcome to the Pocket Doctor project! This tool is designed to be integrated into the La Meva Salut app, providing virtual doctor services accessible to every person in Catalunya.............
 
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
@@ -32,6 +32,14 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - LinkedIn: [LinkedIn](www.linkedin.com/in/julia-garcia-torné)
   - Role: Android Developer
   - Contributions: Developed the app interface using Android Studio, integrated Python emulator for model integration, and optimized app performance.
+
+👤 **Author 2**
+
+  - GitHub: [GitHub Profile](addlink)
+  - LinkedIn: [LinkedIn](addlink)
+  - Role:
+  - Contributions: 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
