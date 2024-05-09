@@ -12,7 +12,7 @@
 Welcome to the Pocket Doctor project! This tool is designed to be integrated into the La Meva Salut app, providing virtual doctor services accessible to every person in Catalunya. Below is an overview of the project structure and the contents you'll find in this repository.
 
 <!-- GITHUB REPOSITORY -->
-# 📖 [Repository Structure] <a name="repo-structure"></a>
+# 🗂️ [Repository Structure] <a name="repo-structure"></a>
 
 - **initial_ideas/***: Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
 
@@ -22,26 +22,16 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   
 - **pocket_doctor.pdf**: This is the final paper of the project, providing detailed information about the development, implementation, and functionality of the virtual doctor tool within La Meva Salut.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 # 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Júlia Garcia**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+  - GitHub: [GitHub Profile](https://github.com/juliagartor)
+  - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+  - Role: Android Developer
+  - Contributions: Developed the app interface using Android Studio, integrated Python emulator for model integration, and optimized app performance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
