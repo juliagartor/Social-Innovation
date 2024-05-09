@@ -40,7 +40,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - GitHub: [GitHub Profile](https://github.com/juliagartor)
   - LinkedIn: [LinkedIn](www.linkedin.com/in/julia-garcia-torné)
   - Role: Android Developer
-  - Contributions: Developed the app interface using Android Studio, integrated Python emulator for model integration, and optimized app performance.
+  - Contributions: Developed the app interface using Android Studio, integrated Python emulator and DL models.
 
 👤 **Author 2**
 
