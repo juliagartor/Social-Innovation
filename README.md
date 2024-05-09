@@ -14,18 +14,6 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
 
- * [initial_ideas](./tree-md) Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
-   * [file22.ext](./dir2/file22.ext)
-   * [file23.ext](./dir2/file23.ext)
- * [dir1](./dir1)
-   * [file11.ext](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
- * [file_in_root.ext](./file_in_root.ext)
- * [README.md](./README.md)
- * [dir3](./dir3)
-
 - **initial_ideas/***: Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
 
 - **android-studio-code/**: This folder contains the Android Studio code for the La Meva Salut app with the integrated virtual doctor tool.
