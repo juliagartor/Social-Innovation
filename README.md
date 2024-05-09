@@ -14,11 +14,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 <!-- GITHUB REPOSITORY -->
 # 🗂️ Repository Structure <a name="repo-structure"></a>
 
-$ ./tree-md .
-# Project tree
-
-.
- * [tree-md](./tree-md)
+ * [initial_ideas](./tree-md) Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
  * [dir2](./dir2)
    * [file21.ext](./dir2/file21.ext)
    * [file22.ext](./dir2/file22.ext)
