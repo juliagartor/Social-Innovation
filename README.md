@@ -7,12 +7,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Pocket Doctor] <a name="about-project"></a>
+# 📖 Pocket Doctor <a name="about-project"></a>
 
 Welcome to the Pocket Doctor project! This tool is designed to be integrated into the La Meva Salut app, providing virtual doctor services accessible to every person in Catalunya. Below is an overview of the project structure and the contents you'll find in this repository.
 
 <!-- GITHUB REPOSITORY -->
-# 🗂️ [Repository Structure] <a name="repo-structure"></a>
+# 🗂️ Repository Structure <a name="repo-structure"></a>
 
 - **initial_ideas/***: Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
 
