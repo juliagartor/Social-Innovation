@@ -1,11 +1,10 @@
+<h1 align="center">Pocket Doctor</h1>
 <a name="readme-top"></a>
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="lmslogo.png" alt="logo" width="240"  height="auto" />
   <br/>
 </div>
-
-<h1 align="center">Pocket Doctor</h1>
 <p align="center"><i>Enhancing Healthcare System: Introducing an Accessible Digital Doctor Tool</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
