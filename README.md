@@ -25,7 +25,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 
 - 📁 **initial_ideas**:  Here, you'll find initial sketches, drawings, and brainstorming materials outlining the conceptualization of the virtual doctor tool.
 
-- 📁 **android_studio_code**: This folder contains the Android Studio code for the La Meva Salut app with the integrated virtual doctor tool.
+- 📁 **android_studio_code**: This folder contains a TXT file with the necessary URLs to obtain the Kotlin code and the application APK.
   
 - 📁 **vscode_python_scripts**: Contains Python scripts used for developing models and functionalities for the virtual doctor tool. These scripts are integrated into the application.
   
