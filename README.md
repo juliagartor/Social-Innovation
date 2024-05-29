@@ -54,3 +54,6 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 
 
 
+Note that this is part of a class project for the course "Social Innovation" from the third year of the AI degree at Universitat Autònoma de Barcelona.
+
+
