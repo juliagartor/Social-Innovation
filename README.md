@@ -54,7 +54,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - GitHub: [GitHub Profile](https://github.com/alrocb)
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-roldan-55488a215/)
   - Role: Model Developer
-  - Contributions: Gathered and finetuned the models contained for preparation and further implementation inside the app.
+  - Contributions: Gathered and finetuned the models contained inside the app for preparation and further implementation.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
