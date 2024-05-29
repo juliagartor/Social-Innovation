@@ -42,11 +42,11 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - Role: Android Developer
   - Contributions: Developed the app interface using Android Studio, integrated Python emulator and DL models.
 
-👤 **Àlex Sánchez**
+👤 **Àlex Sánchez**www.linkedin.com/in/àlex-sánchez-zurita-91944b249
 
   - GitHub: [GitHub Profile](https://github.com/AlexSanchezZurita)
-  - LinkedIn:
-  - Role: Chief Engineer
+  - LinkedIn:[LinkedIn](www.linkedin.com/in/àlex-sánchez-zurita-91944b249)
+  - Role: Chief Boss Maximum Perfect mr.Engineer
   - Contributions: 
 
 👤 **Alex Roldan**
