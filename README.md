@@ -59,7 +59,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
 👤 **Nerea Qing Muñoz**
 
   - GitHub: [GitHub Profile](https://github.com/nereaqing)
-  - LinkedIn: [LinkedIn] (https://www.linkedin.com/in/nerea-qing-mu%C3%B1oz-martin-348338291/)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nerea-qing-mu%C3%B1oz-martin-348338291/)
   - Role: Prompt Engineering
   - Contributions: Preparation of prompts for GPT model.
 
