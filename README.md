@@ -47,7 +47,7 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - GitHub: [GitHub Profile](https://github.com/AlexSanchezZurita)
   - LinkedIn:[LinkedIn](www.linkedin.com/in/àlex-sánchez-zurita-91944b249)
   - Role: Chief Boss Maximum Perfect mr.Engineer
-  - Contributions: 
+  - Contributions: Gathered the development of the app through socio economical investment.
 
 👤 **Alex Roldan**
 
