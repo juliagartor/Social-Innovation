@@ -63,6 +63,13 @@ Welcome to the Pocket Doctor project! This tool is designed to be integrated int
   - Role: Prompt Engineering
   - Contributions: Preparation of prompts for GPT model.
 
+👤 **Guillem Samper Argelagués**
+
+  - GitHub: [GitHub Profile](https://github.com/gSamper)
+  - LinkedIn: [LinkedIn](www.linkedin.com/in/guillem-samper-argelagués-2313b9280)
+  - Role: Chief Boss Maximum Perfect mr.Engineer
+  - Contributions:
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
